@@ -31,4 +31,19 @@ The **Simple Banking System** is a Java-based project that allows users to perfo
    java BankingSystem
    ```
 
+## File Structure  
+- **Main.java** - Entry point of the application.  
+- **Account.java** - Defines the Account class with attributes and methods for handling account details.  
+- **Bank.java** - Contains methods for banking operations like account creation, deposit, withdrawal, and balance inquiry.
+  
+
+## Learning Outcomes  
+- Improved understanding of Java **OOP principles**.  
+- Hands-on experience with **exception handling** and **user input validation**.  
+- Enhanced knowledge of **loops, conditional statements, and Java classes & methods**.  
+
+## Future Enhancements  
+- Add **user authentication** for enhanced security.  
+- Implement a **graphical user interface (GUI)** using JavaFX or Swing.  
+- Integrate a **database (MySQL or SQLite)** for persistent data storage.  
 
