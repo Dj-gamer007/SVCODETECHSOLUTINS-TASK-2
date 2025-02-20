@@ -22,7 +22,7 @@ The **Simple Banking System** is a Java-based project that allows users to perfo
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Simple-Banking-System.git
+   git clone https://github.com/Dj-gamer007/Simple-Banking-System.git
    ```
 2. Open the project in your preferred **IDE (Eclipse, IntelliJ, or VS Code)**.
 3. Compile and run the Java files:
